@@ -8,3 +8,7 @@
 
 * [No iTerm anymore](history/no-iterm-anymore.md)
 
+---
+
+* [Optionals in Swift](optionals-in-swift.md)
+
