@@ -7,5 +7,6 @@
 
 ## History
 
+* [Fourier transformation](history/fourier-transformation.md)
 * [No iTerm anymore](history/no-iterm-anymore.md)
 
