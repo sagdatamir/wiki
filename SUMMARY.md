@@ -13,4 +13,5 @@
 ---
 
 * [Firebase Crashlytics](firebase-crashlytics.md)
+* [Reverse Engineering in Objective-C](https://www.jeffhui.net/2014/03-reverse-engineering-objective-c.html)
 
