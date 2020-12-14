@@ -18,3 +18,9 @@
 * [Shell Haters](http://shellhaters.org)
 * [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 
+## Courses
+
+---
+
+* [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+
