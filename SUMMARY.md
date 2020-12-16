@@ -17,6 +17,7 @@
 * [Reverse Engineering in Objective-C](https://www.jeffhui.net/2014/03-reverse-engineering-objective-c.html)
 * [Shell Haters](http://shellhaters.org)
 * [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
+* [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#goto-the-destroyer-of-abstraction)
 
 ## Courses
 
