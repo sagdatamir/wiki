@@ -18,7 +18,7 @@
 * [Shell Haters](http://shellhaters.org)
 * [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 * [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#goto-the-destroyer-of-abstraction)
-
+* [All of humanity's problems stem from man's inability to sit quietly in a room alone](https://www.theguardian.com/lifeandstyle/2014/jul/19/change-your-life-sit-down-and-think)
 ## Courses
 
 * [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
