@@ -28,3 +28,8 @@
 
 * [Apple MVC](https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html)
 * [Instance Methods are “Curried” Functions in Swift](https://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
+
+## Notes
+
+* [Notion mobile app tech stack](notes/notion-mobile-app-tech-stack.md)
+
